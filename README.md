@@ -7,12 +7,16 @@
 
 A PWA budget tracking app meant to be used either on or offline. User can enter deposits or expenses with or without a connection
 
+## Deployed Application
+
+https://salty-garden-90254.herokuapp.com/
+
 ## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contribution](#contribution)
-* [Testing](#testing)
+* [Screenshot](#screenshot)
 * [Questions](#questions)
 
 ## Installation
@@ -31,13 +35,9 @@ Simply input a transaction name, amount, and select whether to add or subtract f
 
 Contact me!
 
-## Testing
+## Screenshot
 
-For testing, run the following command:
-
-```
-No current testing at this time
-```
+![Screenshot](https://github.com/NathanJamis/Budget-Tracker/blob/main/assets/1620975304267.png)
 
 ## License
 
